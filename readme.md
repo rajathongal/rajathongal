@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rajath</h1>
-<h3 align="center">A passionate Software Engineer from Bangalore, India</h3>
-<h3 align="center">Exploring the Depths of Code and Creativity</h3>
+<h1 align="center">Hi 👋, I'm Rajath Hongal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathongal&label=Profile%20views&color=0e75b6&style=flat" alt="rajathongal" /> </p>
-<p align="left"> <a href="https://twitter.com/rajathongal1" target="blank"><img src="https://img.shields.io/twitter/follow/rajathongal1?logo=twitter&style=for-the-badge" alt="rajathongal1" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning **Data Structure And Algorithm**
-- I have previously worked as **Full Stack Blockchain Engineer**
+I am a full-stack blockchain engineer with 4+ years of experience. I have engineered solutions around e-mobility, enterprise resource planning solutions for the Ed Tech industry & blockchain solutions as a freelancer. Recently led the founding team at Dayfi as CTO (first-of-its-kind collateral less renting and collateral less buy now pay-later solutions for NFTs ), other than the professional skills I like to cook, exercise, and play football and cricket.
+
+I had an opportunity to innovate in blockchain at Dayfi, I came up with secure collateral-less renting and buy now pay later solutions for NFT in a trustless manner. During my school days, I had been participating in science exhibitions, participated in a young scientist competition arranged by Govt of Karnataka, India, and won the title of Young scientist for innovation in space engines powered by plasma.
+
+- 🔭 I’m currently exploring depths of **Go Lang** and learning **Data Structure And Algorithms**
+- I have previously worked as **Full Stack Blockchain Engineer**, **Backend Developer**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathongal&show_icons=true&locale=en" alt="rajathongal" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajathongal&show_icons=true&locale=en&layout=pie" alt="rajathongal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathongal&" alt="rajathongal" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +21,3 @@
 <a href="https://linkedin.com/in/rajat-hongal-ab636611b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-hongal-ab636611b" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathongal&show_icons=true&locale=en" alt="rajathongal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathongal&" alt="rajathongal" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajathongal&show_icons=true&locale=en&layout=compact" alt="rajathongal" /></p>
