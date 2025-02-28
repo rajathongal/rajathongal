@@ -2,12 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathongal&label=Profile%20views&color=0e75b6&style=flat" alt="rajathongal" /> </p>
 
-I am a full-stack blockchain engineer with 4+ years of experience. I have engineered solutions around e-mobility, enterprise resource planning solutions for the Ed Tech industry & blockchain solutions as a freelancer. Recently led the founding team at Dayfi as CTO (first-of-its-kind collateral less renting and collateral less buy now pay-later solutions for NFTs ), other than the professional skills I like to cook, exercise, and play football and cricket.
+I am a full-stack engineer with 4+ years of experience. I have engineered solutions around e-mobility, enterprise resource planning solutions for the Ed Tech industry & blockchain solutions as a freelancer. Recently led the founding team at Dayfi as CTO (first-of-its-kind collateral less renting and collateral less buy now pay-later solutions for NFTs ), other than the professional skills I like to cook, exercise, and play football and cricket.
+
+My recent experience is with pet health care industry with **Omelo** <a href="https://www.beomelo.com">website</a>
 
 I had an opportunity to innovate in blockchain at Dayfi, I came up with secure collateral-less renting and buy now pay later solutions for NFT in a trustless manner. During my school days, I had been participating in science exhibitions, participated in a young scientist competition arranged by Govt of Karnataka, India, and won the title of Young scientist for innovation in space engines powered by plasma.
 
-- 🔭 I’m currently exploring depths of **Go Lang** and learning **Data Structure And Algorithms**
-- I have previously worked as **Full Stack Blockchain Engineer**, **Backend Developer**
+- 🔭 I’m currently exploring depths of **C++, JavaScript and general software** and learning **Data Structure And Algorithms**
+- I have previously worked as **Full Stack Engineer**, **Backend Developer**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathongal&show_icons=true&locale=en" alt="rajathongal" /></p>
 
